@@ -14,15 +14,12 @@ My interests include **Generative AI**, **Agentic AI**, **Full-Stack Development
 - 🌱 Learning Generative AI, Agentic AI, Cloud Computing, System Design, and Advanced React.
 - 👯 Open to collaborating on AI/ML, Open Source, Full-Stack Development, and Hackathon projects.
 - 🤝 Looking for mentorship in production-ready AI systems and scalable cloud architectures.
-- 💬 Ask me about Python, Java, JavaScript, React, Three.js, Git/GitHub, and AI development.
+- 💬 Ask me about Python, Java, Git/GitHub, and AI development.
 - ⚡ I enjoy turning ambitious ideas into real software—from AI assistants to immersive 3D experiences.
 
 ---
 
 ## 🚀 Featured Projects
-
-### 🤖 PortfolioPilot AI
-AI-powered portfolio analysis platform focused on modern UI and intelligent insights.
 
 ### 🛡️ FACT CHECKER-AI
 An AI application for combating misinformation built during a hackathon.
